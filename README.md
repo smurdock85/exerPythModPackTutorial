@@ -6,7 +6,7 @@
 - [x] Clone the repository on your local machine. 
 - [x] Create .py files from the tutorial in your repository.
 - [x] Push your new files to your GitHub repository.
-- [ ] Submit a link to this GitHub repository in Canvas.
+- [x] Submit a link to this GitHub repository in Canvas.
 
 ## Fork & Clone this repository
 
