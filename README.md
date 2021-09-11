@@ -1,4 +1,4 @@
-# Python Modules and Packages Tutorial
+# Shelby's Python Modules and Packages Tutorial 2021
 
 ## Summary of steps to complete
 
